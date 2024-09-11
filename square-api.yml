@@ -1,3 +1,5 @@
+welcome:
+    message: Welcome to default Square API
 management:
   endpoints:
     web:
